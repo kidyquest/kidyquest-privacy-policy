@@ -97,7 +97,7 @@ Pour exercer vos droits, contactez-nous à : kidyquest.privacy@gmail.com
 ### 10.1 Informations de contact
 - **Développeur** : Adil BENDIABDELLAH
 - **Organisation** : kidy quest
-- **Email** : bendiabdellah.adil@gmail.com
+- **Email** : kidyquest.privacy@gmail.com
 - **Adresse** : Paris, Île-de-France, France
 
 ### 10.2 Questions et réclamations
